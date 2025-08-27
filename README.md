@@ -108,16 +108,19 @@ smart-event-system/
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/home.jpeg)
 
 ### Event Details
-![Event Details](screenshots/event-details.png)
+![Event Details](screenshots/events.jpeg)
 
 ### Booking Page
-![Booking Page](screenshots/booking.png)
+![Booking Page](screenshots/bookticket.jpeg)
+
+### Booking Confirm Page
+![Booking confirm Page](screenshots/bookingconfirm.jpeg)
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin.png)
+![Admin Dashboard](screenshots/admin.jpeg)
 
 ---
 
